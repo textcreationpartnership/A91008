@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priests wickednesse and cruelty, laid open, and made manifest, by Priest Smith of Cressedge, persecuting the servants of the Lord, whose outward dwellings is in and about Shrewsbury. As also, the proceedings of Judge Nicholas, and the Court of Justice, so called, against them so persecuted by the priest, at the last generall assizes holden at Bridgenorth for the county of Salop. Together, with some queries, to the priests.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91008</idno>
+            <idno type="STC">Wing P3454</idno>
+            <idno type="STC">Thomason E910_4</idno>
+            <idno type="STC">ESTC R207503</idno>
+            <idno type="EEBO-CITATION">99866548</idno>
+            <idno type="PROQUEST">99866548</idno>
+            <idno type="VID">118824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E910[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priests wickednesse and cruelty, laid open, and made manifest, by Priest Smith of Cressedge, persecuting the servants of the Lord, whose outward dwellings is in and about Shrewsbury. As also, the proceedings of Judge Nicholas, and the Court of Justice, so called, against them so persecuted by the priest, at the last generall assizes holden at Bridgenorth for the county of Salop. Together, with some queries, to the priests.</title>
+                  <author>Overton, Constantine, d. 1687.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spread Eagle, near the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a letter signed: Constant Overton [and 6 others].</note>
+                  <note>Annotation on Thomason copy: "May 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118824:1" rendition="simple:additions"/>
+            <p>THE PRIESTS <hi>Wickedneſſe</hi> and <hi>Cruelty,</hi> Laid OPEN, and made Manifeſt, By Prieſt <hi>Smith</hi> of <hi>Creſſedge,</hi> Perſecuting the Servants of the Lord, whoſe outward dwel<g ref="char:EOLhyphen"/>lings is in and about <hi>Shrewsbury.</hi>
+            </p>
+            <p>
+               <hi>As alſo,</hi> The Proceedings of Judge <hi>Nicholas,</hi> and the Court of Juſtice, ſo called, againſt them ſo perſecuted by the Prieſt, at the laſt generall Aſſizes holden at <hi>Bridgenorth</hi> for the County of <hi>Salop.</hi>
+            </p>
+            <p>
+               <hi>TOGETHER, With ſome</hi> QUERIES, <hi>to the</hi> Prieſts.</p>
+            <q>
+               <p>As troops of robbers waite for a man, ſo the Company of Prieſts murder in the way by conſent, for they commit lewdneſſe,</p>
+               <bibl>
+                  <hi>Hoſea 6.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And judgment is turned backwards, and juſtice stands afarr off, for truth is fallen in the ſtreets, and equity can<g ref="char:EOLhyphen"/>not enter: yea, truth falleth, and he that departeth from evill maketh himſelfe a prey, and the Lord ſaw it, and it diſpleaſed him that there was no judgement,</p>
+               <bibl>
+                  <hi>Iſaiah 59.14, 15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Hearken unto me ye that know righteouſneſſe; the people in whoſe heart is my Law fear ye not the re<g ref="char:EOLhyphen"/>proach of men: neither be afraid of their revileings, for the moth ſhall eat them up like a garment, and the worm ſhall eat them like wooll; but my righteouſnes ſhall be for ever, and my ſalvation from generation to generation.</p>
+               <bibl>
+                  <hi>Iſa. 51.7, 8</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpread Eagle, near the Weſt end of <hi>Pauls.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118824:2"/>
+            <pb n="1" facs="tcp:118824:2"/>
+            <head>THE PRIESTS <hi>Wickedneſſe</hi> &amp; <hi>Cruelty,</hi> Laid <hi>OPEN,</hi> and made manifeſt.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N all ages and generations the ſeed of the Serpent perſecuted the ſeed of the Woman; they that were borne after the fleſh, them that were borne after the Spirit; they that did evill, perſecuted them that did well; they that had the profeſſion of godlineſſe, them that were in the Priſon; as it is decla<g ref="char:EOLhyphen"/>red in the Scriptures of truth from the beginning to the end. <hi>Cain</hi> he offered ſacrifices and offerings to the Lord, yet he hated his Brother, his countenance was caſt downe, <hi>Cain</hi> was very wrath and after ſlew his Brother <hi>Abell,</hi> whoſe offering the Lord had reſpect unto. <hi>Gen.</hi> 4.3, 4, 5, 6, 7, 8.</p>
+            <p>And in the time of the Prophets who prophecied of Chriſt, who is the ſeed; they that offered offerings, and cryed peace, peace unto the people, perſecuted them that ſpake the truth as they were moved of the Lord; as in <hi>Michah</hi> and <hi>Jeremi<g ref="char:EOLhyphen"/>ah</hi> who was put in the dungeon for ſpeaking the truth. 1 <hi>Kings</hi> 22.27. <hi>Jer.</hi> 38.6.</p>
+            <p>When Chriſt came, who was the end of the Prophets, and the Law, they that had the Law and the Prophets <hi>Moſes</hi> and his writings, could not believe on him but ſought honour one
+<pb n="2" facs="tcp:118824:3"/>of another, Chriſt ſaid unto them, <hi>How can yee believe, that look for honour one from another, and ſeek not the honour that cometh from God only John</hi> 5.44. They ſaid they were of <hi>Abrahams</hi> ſeed, and God was their Father, and yet they called Chriſt a Blaſphemer. They ſaid, <hi>Not for a good work doe we ſtone thee, but for Blaſphemy? John</hi> 10.33. They ſaid that he had a Di<g ref="char:EOLhyphen"/>vell, and becauſe that he ſpake the truth, If a man keep my ſaying, he ſhall never ſee death. They ſaied, <hi>Now we know thou haſt a Divell; John</hi> 8.51.52. Yet he did not denye him<g ref="char:EOLhyphen"/>ſelfe but ſpoke openly, that he was the light of the world. <hi>I am come a light into the world, that whoſoever believeth in me ſhould not abide in darkneſſe;</hi> Yet they could not believe, but told him that he bear witneſſe of himſelfe. He ſaid, <hi>If you be<g ref="char:EOLhyphen"/>lieve not that I am he, you ſhall dye in your ſins,</hi> John 8.24. Which is to be fulfilled upon all that doe not believe in Chriſt the light. The <hi>Jewes</hi> ſaid unto him, <hi>How long makeſt thou us to doubt, if thou be the Chriſt tell us plainly?</hi> he anſwe<g ref="char:EOLhyphen"/>red them, <hi>I told you, and yes believe not;</hi> and many of them ſaid, <hi>He hath a Divell and is madd, why hear yee him, John</hi> 10.20. And the high Prieſts were the incenſers of the rulers and the people againſt him, who was the Son of God the end of all their Prieſthood, ſaying, <hi>Ye have heard his Blaſphemy, what think you?</hi> and they all condemned him to be guilty of death, <hi>Marke</hi> 14.64.</p>
+            <p>And <hi>Stephen</hi> was ſtoned to death for witneſſing againſt their Temple, and for confeſſing he ſaw the glory of God, <hi>Acts</hi> 7.48, to the end.</p>
+            <p>And the high Prieſts ſtirred up the rulers againſt <hi>Paul,</hi> who preached Chriſt, and was ſent to turne from darkneſſe to light, and called him a Peſtilent fellow, and a mover of ſedition a<g ref="char:EOLhyphen"/>mongſt all the <hi>Jews,</hi> a ring-leader of the ſect of the <hi>Nazarens, Acts</hi> 24.5.</p>
+            <p>So here all along you may ſee they that perſecuted were not the children of God, although they profeſſe his name, neither are they guided by the Spirit of God that do perſe<g ref="char:EOLhyphen"/>cute, but are in the envy which is of the Divell, which through the eternall love of the father, we are come to ſee, who hath ſound him, whom our ſouls longed after, even Jeſus Chriſt
+<pb n="3" facs="tcp:118824:3"/>the way to the Father, who learnes to be meek, and ſober, and to doe unto all as we would be done unto, who is the end of the Law, which is love, and ſo according to his promiſe made of old by his ſervants the Prophets, the Law is written in our hearts, and the Lord is our teacher, and the worſhip of our God is in Spirit; upon whom we wait ſometimes, meeting together in his fear, that his ſecrets may be revealed unto us, where we are moved of the Lord, ſometimes in our own hou<g ref="char:EOLhyphen"/>ſes in <hi>Shrewsbury</hi> and there abouts; where we have been of<g ref="char:EOLhyphen"/>ten moleſted, and perſecuted by them who came out of the fear of God, they being hearers of the Prieſts, if not members of their churches, ſometimes railing, and ſometimes by throw<g ref="char:EOLhyphen"/>ing ſtones at our windowes in danger to doe us hurt, breaking the glaſſe, alſo throwing ſtones and dirt at ſome of us as we paſſe the ſtreets, with other great abuſes that might be menti<g ref="char:EOLhyphen"/>ned, and yet untill now we kept theſe things from being pub<g ref="char:EOLhyphen"/>lickly known, but now at laſt being conſtrayned out of love unto all men, we have laid theſe things to open view, not that we rejoyce to ſee ſuch filthineſſe committed, but that they that are not yet partakers with thoſe men may not through ignorance joyn with them, and ſo partake of their plagues. And likewiſe that they that have done ſuch things, or any thing that is evill, when they come to ſee it with the light of Chriſt, they may come to repent, and ſo forſake the evill. And this is the deſire of us, who ſuffer for Chriſts ſake, and the teſtimony of the truth which we dare not deny, but are willing to ſeal it with our blood; if we ſhould deny him, he would deny us.</p>
+            <div type="document">
+               <head>And here followes a ſhort Relation of Prieſt <hi>Smiths</hi> perſe<g ref="char:EOLhyphen"/>cution of us, by him, or his members, in this little paper, where<g ref="char:EOLhyphen"/>of the Judge ſo called had a coppy given to him that he might doe nothing againſt us through ignorance, whereto our names were ſubſcribed, who are the ſufferers.</head>
+               <opener>
+                  <signed>
+                     <list>
+                        <pb n="4" facs="tcp:118824:4"/>
+                        <item>
+                           <hi>William Payne.</hi>
+                        </item>
+                        <item>
+                           <hi>Constant Overton.</hi>
+                        </item>
+                        <item>
+                           <hi>John Payne.</hi>
+                        </item>
+                        <item>
+                           <hi>Homfr: Overton.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Jenkes.</hi>
+                        </item>
+                        <item>
+                           <hi>John Farmer.</hi>
+                        </item>
+                        <item>
+                           <hi>James Farmer.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </opener>
+               <p>THE firſt day of the week being the fifth day of the eighth month called <hi>Octob.</hi> 1656. The ſervants of the Lord, who by the world in ſcorn are called Quakers, as they were moved, met in the name and fear of the Lord on the way near the ſteeple houſe yard near <hi>Creſſedge,</hi> and there in peace abiding, and as the miniſter of the Lord moved by the Spirit of the Lord was ſpeaking, or declaring to the people, there ruſhed out of the ſteeple houſe many of the people, ſome of them running furiouſly, and in great rage, breaking over the hedg laying violent hands upon many friends, amongſt the reſt ſome of the Souldiers (they being friends) the people with their violence broke the hilt of one of their ſwords being in the ſcabberd by doing their indeavour to take it from him, al<g ref="char:EOLhyphen"/>though there was no occaſion given by any, by words or deeds, and alſo drew blood from his hand, ſuch was their brutiſh im<g ref="char:EOLhyphen"/>moderation. And when their rage ceaſed, and the meſſenger of the Lord, as he was declaring the mind of the Lord, was brought by the Conſtable into the Town, and there he was fur<g ref="char:EOLhyphen"/>ther moved to ſpeak from the Lord to die people, they being ſilent untill he was moved to prayer, then as he was at prayer, the Prieſts ſervants came forth with kettles, and beated upon them, one with a key, the other with a ſtaffe, and alſo ſome others with a candleſtick, and a frying pan purpoſely to di<g ref="char:EOLhyphen"/>ſturb; and being asked why they did ſoe, the Prieſts man an<g ref="char:EOLhyphen"/>ſwered and ſaid, that he that ſett them to doe it, would beare them out. Likewiſe the Prieſts maid and others, with wooden veſſells throwing water in the faces of many of us, with ſhoo<g ref="char:EOLhyphen"/>ting, ſtriking, and balling as the meereſt Heathens upon the face of the earth. And thus with many more abuſes received, is the truth of the paſſages, as many can witneſſe; yet, notwith<g ref="char:EOLhyphen"/>ſtanding all theſe groſſe abuſes, the Prieſt ſtirred the Juſtices ſo called, to grant a Warrant to fetch in the innocent that pati<g ref="char:EOLhyphen"/>ently
+<pb n="5" facs="tcp:118824:4"/>ſuffered the former wrongs; and upon the ſeaventh day following he procured ſeverall friends to be brought before Juſtice <hi>Harecot Layton,</hi> Juſtice <hi>Richard Baggot,</hi> ſo called, in the Exchequer of <hi>Shrewsbury,</hi> where he, the Prieſt, declared many untruths to the Juſtices, bringing in his ſervants and others which were offenders for witneſſes, and the innocent there ac<g ref="char:EOLhyphen"/>cuſed could have proved the Prieſt a man for-ſworne, but they could not be heard. And as the firſt was examined what he ſaw done by us, anſwered, that he ſaw nothing done but that we ſtood peaceably, and then others being examined whether there was any diſturbance, one anſwered, he heard a dim ſound at the lower end of the Chappell, ſo called, but could not un<g ref="char:EOLhyphen"/>derſtand any thing. Alſo a Conſtable being examined upon his oath whether he ſaw, or heard any diſturbance, who an<g ref="char:EOLhyphen"/>ſwered no, he ſaw them peaceable, and quiet, the Juſtices ask<g ref="char:EOLhyphen"/>ed is he a Quaker? and would not ſuffer him to ſpeak further, but appointed his clark to make a Mittimus to ſend us to the common goale. Some of us asking what Law we had broken, then they read the Statute of the firſt year of <hi>Phillip</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> one of us anſwered that we had not ſo much as broken that Law, not being in the Chappell ſo called, nor Chappell yard, nor any of us mentioned in the Mittimus ſpake a word whileſt the Prieſt was in the Chappell, neither ſaw his face, yet the Juſtices ſaid, it was ſuppoſed we had broken <hi>Marys</hi> Laws thoſe Popiſh principles, ſo upon this ſuppoſition ſent us to Priſon.</p>
+               <p>The Aſſizes being holden at the towne of <hi>Bridgnorth,</hi> to which we came the 14. day of the firſt month, the Prieſt made complaint unto the Judge, that the Jayler gave us too much li<g ref="char:EOLhyphen"/>berty, as the Clarke told one of us, who have ſuffered by the ſaid Prieſts cruelty, wherein his cruelty appeares more and more, and the deceipt made manifeſt to all who love to doe as they would be done unto. And upon the 16 day of the month above mentioned, we were brought forth before the Judge, and the Court, ſingly one by one, where we came in the fear of God. The firſt of us being called had out hatt taken of our head, by ſome that ſtood by the Judge, ſeeing that, and know<g ref="char:EOLhyphen"/>ing there was no matter of fact to lay to our charge, bad put
+<pb n="6" facs="tcp:118824:5"/>on their hatts; and when our hatts were on our heads, they told us they were a Court of juſtice, wherein all may ſee how they ſeek to inſnare the innocent, and how unjuſtly they deale with the innocent, who commanded our hatts to be put on, and then commanded us to take them off (in theſe words) three times, the Court commands you to put off your hatts; which being done, bad the Jaylor take us away one after another.</p>
+               <p>And being carried to priſon we remained till the next day, and then we were brought forth before them againe, and they read one indictment to us, wherein was mentioned that we came in contempt of the Court, with ſome more things to the ſame purpoſe, nothing being mentioned that we had done to the Prieſt who caſt us in priſon. As touching the breach of any known Law, they asked us, are you guilty? we anſwered, nay, we come not in contempt of the Court, but in obedience to the Lord, who commands we ſhould not reſpect perſons; at which the Judge bid us hold our tongues, <hi>I know what I will doe with you;</hi> and this was before the jury had their charge; wherein all may ſee, who loves the light, the corrup<g ref="char:EOLhyphen"/>tion and unjuſtice of this Judge, who could tell what he would doe with us, before the jury went forth; but the jury being called, and receiving their charge of the Judge, where<g ref="char:EOLhyphen"/>in he told them, that putting of the hatt, was the cuſtom of the Nation, and the cuſtome of the Nation was the ground of the Law of the Nation; we anſwered, evill cuſtoms are not to be kept, and that Law, that is grounded upon cuſtoms, and not upon the Law of God, hath but a ſandie foundation; for many are accuſtomed to doe evill, as the Scripture teſtifies; and the ſaints were not to faſhion themſelves like to this world. Then there was a proclamation made in the Court, that if any man had either matter of fellonie, or murder, or the like, againſt the Priſoners, they might appear to proſecute, or to that purpoſe; but none appeared againſt us, as touch<g ref="char:EOLhyphen"/>ing the breach of any Law either of God, or man.</p>
+               <p>Wherein all may ſee how the innocent are reckoned a<g ref="char:EOLhyphen"/>mongſt the tranſgreſſors. But we know the Law is good if a man uſe it lawfully, knowing this, that the Law is not made
+<pb n="7" facs="tcp:118824:5"/>for a righteous man, but for the Lawleſſe, and diſobedient, for the ungodly, and for ſinners, for unholy, and profane, for murderers of Fathers, and murderers of Mothers, for man<g ref="char:EOLhyphen"/>ſlayers, for whoremongers, for them that defile themſelves with mankind, for men-ſtealers, for liers, for perjured perſons, and if there be any other thing contrary to ſound Doctrine, read 1 <hi>Tim.</hi> 1.8, 9, 10. Now we are not Lawleſſe, for the Law of the Nation doth not forbid any publique place to meet in, neither them that doe profeſſe faith in Jeſus Chriſt, the Law doth not forbid, but by it they are to be Protected; neither did we any thing contrary to ſound Doctrine, as we ſhall be ready to prove out of the Scriptures of truth, for there is nothing mentioned in the Scriptures of putting off the hatt, and ſo keeping on our hatts is not contrary to ſound Doctrine and ſo not tranſgreſſors of the Law.</p>
+               <p>But is not he who is our accuſer, and proſecuter, out of the ſaid Doctrin of Jeſus Chriſt? is not he called maſter, doth not he ſtand praying in the Synogogues? hath he not the chiefeſt ſeat in the Aſſembly, doth he not take hire? is not he a falſe accuſer, who accuſed us that we diſturbed him, and hath not proved it, and is not all theſe things contrary to ſound Doc<g ref="char:EOLhyphen"/>trine, and ſo he found to be the tranſgreſſor of the Law?</p>
+               <p>And ſo all may ſee how the innocent is puniſhed, and the guilty goes free, for when the jury came in with their Verdict, they ſaid that we were guilty as touching keeping on our hatts not mentioning any other thing of concernment whereupon the Judge with the conſent of ſome of the Court, there pre<g ref="char:EOLhyphen"/>ſent, fined us ſeaven, aforementioned, in fortie pounds a peece, and to be kept Priſoners till the payment; And this is the chiefeſt of the things that was done by the Judge, and the Court that we doe remember.</p>
+               <p>But yet for all this the malice of the Prieſt, and his mem<g ref="char:EOLhyphen"/>bers is not ceaſed, for as ſome of our friends paſſed by the place called <hi>Creſſedge</hi> where the ſaid Prieſt is called a Miniſter, the fruits that is brought forth by the people, made him ma<g ref="char:EOLhyphen"/>nifeſt to be no Miniſter of Chriſt, Chriſt ſaith by their fruits ye ſhall know them, they were mockers, and ſcoffers, and ſwea<g ref="char:EOLhyphen"/>rers, and ſuch like which I know is not fruit of the good tree,
+<pb n="8" facs="tcp:118824:6"/>but of that tree that is to be hewn down and caſt into the fire, <hi>For every tree that bringeth not forth good fruit, is to be hewen down, and caſt into the fire,</hi> Mat. 3.10. And ſo it is good for people to conſider of their ways, who have ſuch leaders as cauſe them to erre, for if the blind lead the blind, both fall in<g ref="char:EOLhyphen"/>to the ditch.</p>
+               <p>And the Prieſt to cover his former envie, goes on further, and to blind the people more, and more, reported it, that we were fined for that we had done unto him, which is a plaine, and manifeſt lye, as many can witneſſe, and may be made ap<g ref="char:EOLhyphen"/>peare; for the Judges Clarke told one of us, if we were but free to goe, and put of our hatts before the Bench, our fines might be taken off, and we might have our libertie to proſe<g ref="char:EOLhyphen"/>cute againſt the Prieſt, and Juſtice, for falſe impriſonment, and ſo have recovered our coſts and dammages for five months impriſonment, which would have been no ſmall ſum of money, if we had been free to have done ſo.</p>
+               <p>So here all may ſee the Prieſt to be a lyer, and ſo a tranſ<g ref="char:EOLhyphen"/>greſſor of the Law of God, whoſe Law we durſt not break, upon whom we waite for righteous judgement, who will judge our enemyes righteouſly.</p>
+            </div>
+            <div type="letter">
+               <head>And here followeth a Copy of a Letter which was ſent to the Judg ſo called: but as we do underſtand, he would not receive it; where<g ref="char:EOLhyphen"/>fore we thought it convenient to put it here, that all that deſire to ſee it, may.</head>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>COnſider in this your day the things that belong to your peace, conſider in what way you are going, all people, both high and low, rich and poore, Judge and Juſtice, Prieſt and People, before the decree of the Lord be ſealed againſt you,
+<pb n="9" facs="tcp:118824:6"/>and the time of repentance be paſt, when there ſhall be no more time, but you ſhall wiſh the hills and mountaines to fall upon you, to hide you from the preſence of the Lambe, whoſe innocent and harmleſſe Lambs you have oppreſt.</p>
+               <p>O you Judges of the earth learne to be wiſe, pervert not judgement, and juſtice, feare God and reſpect not the perſon of man, but doe righteous judgement between man and man, ſet the oppreſſed free, the Lord requires it of you.</p>
+               <p>Conſider, you that ſit in place to doe juſtice at the towne of <hi>Bridgenorth,</hi> what you have done already, who ſay you were a Court of juſtice, of whom we might have expected juſtice, if it had been ſo, that our accuſers might have come to our faces, that we might have known the crime for which we are caſt into Priſon: but we now ſee that there is nothing a<g ref="char:EOLhyphen"/>gainſt us, unleſſe it be concerning the Law of our God, who commands that we ſhould not reſpect the perſon of man; In obedience of whoſe command we come before you, honouring you in the Lord, in whoſe preſence we ſtood, who commands no ſuch things as the putting off the hatt, as is ever recorded in the Scriptures of truth. And moreover, ſome of us came be<g ref="char:EOLhyphen"/>fore you, having our hatts taken of by ſome that ſtood by, and the Judge bad put them on. Conſider, was it both juſtice to bid put on, and put off? conſider, was ever the like heard of in any generation? are you Miniſters of the Law, or Judges of the Law, may you doe what you will? and not come to judgement? yea, the Lord whom we ſerve, ſhall judge right<g ref="char:EOLhyphen"/>eous judgement, and plead our cauſe againſt all our enemyes, and he is able to deliver us. However, be it known unto you, we will not break the command of God to pleaſe you.</p>
+               <p>And for him, who is our accuſer, who profeſſes to be a Miniſter of Chriſt, conſider, was ever the like heard of, that e<g ref="char:EOLhyphen"/>ver any Miniſter of Chriſt cauſed any to be halled to Priſon, kept ſwearers in his houſe, revilers, mockers, and ſcoffers? we were met to waite upon the Lord in quietneſſe, diſturbing no man, nor men, but were diſturbed by them, who are mem<g ref="char:EOLhyphen"/>bers of the Church of Prieſt <hi>Smith.</hi>
+               </p>
+               <p>Surely, the Miniſters of Chriſt never did ſo, nor the mem<g ref="char:EOLhyphen"/>bers of Chriſt never upheld ſuch, but cried againſt them who
+<pb n="10" facs="tcp:118824:7"/>preached for hire, and divines for money, was this the fruits of divine ſervice, to perſecute? doe you think the Lord will be mocked? doe you not know, ſuch as you ſowe, ſuch muſt you reape, ſhall not the Lord reward you double, and as you have done, ſhall it not be ſo done unto you? O fooliſh peo<g ref="char:EOLhyphen"/>ple, and unwiſe! doe you not underſtand that the Lord lov<g ref="char:EOLhyphen"/>eth judgment, and juſtice? doe you count it ſtubbornes in my ſervants, ſaith the Lord, that they will not bow to the will of man? was it ſtubbornes in my ſervant <hi>Mordecai,</hi> who could not bow to <hi>Hammon,</hi> who would have had honour in the Kings gates? was it ſtubbornes in my ſervants, that could not bow to the Image that <hi>Nebuchadnezzar</hi> ſet up. Conſider, is the putting of the hatt a leſſer matter then theſe things, and is not this the greateſt thing that is againſt us; And ſo is not this to be worſe then the Heathens.</p>
+               <p>Conſider of theſe things, all you to whom theſe may come, and all you in whom there is deſires after the way of God: be ſeperated from theſe men, joyne not with them in their ſins, leaſt you partake of their plagues: mind that which calls for truth and uprightneſſe in the inward parts, the Law of God written in the heart according to his promiſe; that you may be taught of the Lord alone, and be eſtabliſhed in righte<g ref="char:EOLhyphen"/>ouſneſſe, that which reproves for ſwearing lying, coveteouſ<g ref="char:EOLhyphen"/>neſſe, envy, mocking, ſcorning, that is the Light of Chriſt, take good heed of being diſobedient to it, it is neer to you all continually, and yee cannot eſcape his righteous judgements, who will render to every man according to their deeds, with which light you ſhall ſee your deeds; If you doe truth, come to the light, and walke in the light, and put of the works of darkneſſe, that yee be not condemned with the light, which is the condemnation of the world, prize your time, be not decei<g ref="char:EOLhyphen"/>ved with a profeſſion, which will not ſtand in the day of tryall, but mind what you poſſeſſe in truth, and what peace you have with God, deale plainly and conſider how you ſtand, whether you ſuffer with the people of God, or you joyne with them that perſecute.</p>
+               <p>Soe we having layed theſe things before you, to conſider of, we have cleared our conſciences in the ſight of God, and reſt
+<pb n="11" facs="tcp:118824:7"/>in peace, ſuffering for the teſtimony of Jeſus, waiting upon him for diliverance. And this yee ſhall witneſſe to be in love to your ſouls in the day of our Lord, when there ſhall be judge<g ref="char:EOLhyphen"/>ment without reſpect of perſons.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Given forth the</hi> 7 <hi>day of the</hi> 1 <hi>month.</hi>
+                     </date>
+                  </dateline>
+                  <signed>From us who are called Quakers by them that live out of the fear of God,
+<list>
+                        <item>
+                           <hi>Constant Overton.</hi>
+                        </item>
+                        <item>
+                           <hi>Humfry Overton.</hi>
+                        </item>
+                        <item>
+                           <hi>John Farmer.</hi>
+                        </item>
+                        <item>
+                           <hi>James Farmer.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Jenkes.</hi>
+                        </item>
+                        <item>
+                           <hi>William Payne.</hi>
+                        </item>
+                        <item>
+                           <hi>John Payne.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="queries">
+               <pb n="12" facs="tcp:118824:8"/>
+               <head>Some <hi>Queries</hi> to Priest <hi>Smith,</hi> or any of the Prieſts, in <hi>Shrewsbury,</hi> or there abouts, to be anſwered by them in plaineſs and ſober<g ref="char:EOLhyphen"/>neſſe, according to the Scriptures of truth.</head>
+               <p n="1">WHether you doe own that Christ lighteth e<g ref="char:EOLhyphen"/>very man that cometh into the worlds, yea, or no?</p>
+               <p n="2">2. Whether this be a natural light which ſhineth in darkneſſe, which darkneſse cannot comprehend, and is the condemnation of the world, yea or no?</p>
+               <p n="3">3. Whether this be a created light, which <hi>John</hi> cal<g ref="char:EOLhyphen"/>led the true light, that lighteth every man that cometh into the world, him by whom the world was made, ſee<g ref="char:EOLhyphen"/>ing God created all things by Jeſus Chriſt, who is the light? anſwer plainly that the people may receive ſatis<g ref="char:EOLhyphen"/>faction.</p>
+               <p n="4">4. Whether you doe own the ſame Chriſt that ſaid in his Doctrine, beware of the Scribes which love to goe in long cloathing, and love ſalutations in the market places, and chiefe ſeats in the aſſemblies, and the upper<g ref="char:EOLhyphen"/>moſt roomes at feaſts, called of men (master) devoure widdows houſes, and for a pretence make long prayers, which ſhall receive the greater condemnation, if yee be found in theſe ſteps, let us know how you will eſcape the damnation?</p>
+               <p n="5">5. Whether doe you own that Chriſt that ſuffered at <hi>Jeruſalem,</hi> who ſaid, as you would that men ſhould doe unto you, do you unto them; and whether you that hale to priſon doe as you would be done unto, yea, or nay?</p>
+               <p n="6">6. Whether the worſhip of God be not the ſame now, as it was when Chriſt ſaid, God is a Spirit and they that
+<pb n="13" facs="tcp:118824:8"/>worſhip him now, muſt worſhip him in Spirit and truth? if yea, I require to prove where ever God commanded a<g ref="char:EOLhyphen"/>ny man to take a verſe of Scripture and to give mean<g ref="char:EOLhyphen"/>ings, or conceavings upon it, and where this is called ſpirituall worſhip, ſeeing this is your practice, when you meet together? Prove your practice, or confeſſe your error.</p>
+               <p n="7">7. Whether it is better to waite upon the Lord in ſi<g ref="char:EOLhyphen"/>lence, meeting together in his feare, to worſhip him in Spirit, or ſet up that God never required, nor comman<g ref="char:EOLhyphen"/>ded, and live in pride, envy, coveteouſneſſe, and follow pleaſures; whether theſe are agreable to the life of them that gave forth Scriptures?</p>
+               <p n="8">8. What and where that is that leads the people of God into all truth, and reproves the world of ſinne?</p>
+               <p n="9">9. Whether the Scriptures can be read and under<g ref="char:EOLhyphen"/>ſtood by any other Spirit but that Spirit that gave them forth, yea, or nay? And are not they that are out of the Doctrine of Chriſt in life and practice, living in pride and envy, guided by another Spirit then that which gave forth Scriptures, yea, or nay?</p>
+               <p n="10">10. What is that which the Apoſtle ſpeaks of in his epiſtle to the <hi>Romans</hi> which was manifest in them that gaine the knowledge of God, and whether that which may be known of God is not manifeſt which is now, as it was then, yea, or nay?</p>
+               <p n="11">11. What that manifeſtation of the Spirit is which is given to every man to profit withall, and where it is, whether within man, or without man, and whether there be any profiting but in any by the Spirit, yea, or nay?</p>
+               <p n="12">12. Whether that which was the ſaints rule and guide in former ages before the Scripture was written,
+<pb n="14" facs="tcp:118824:9"/>and their rule and guide who wrote Scriptures, be not a guide, and rule to ſaints now: Or when was it changed, and the Scripture put in its ſteed? is God changeable, is not his power the ſame, his way the ſame now, is not he who was the foundation, and the Rock of his age then, the author and foundation of the ſaints faith now, and the Rock of this age, and ſo the Rock of ages, is not Christ the ſame yesterday, to day, and for ever?</p>
+               <p>
+                  <hi>Anſwer to theſe Queries plainly that deceipt may be made manifeſt where it is, and the truth exalted; and when they are anſwered, ſend the Anſwer to ſome of us who are ſufferers for the truth, whoſe names are aforementioned.</hi>
+               </p>
+               <p>Who is wiſe, and he ſhall underſtand theſe things, prudent and he ſhall know them: for the wayes of the Lord are right, and the juſt ſhall walke in them, but the tranſgreſſors ſhall fall therein, <hi>Hoſea 14.9.</hi>
+               </p>
+               <closer>
+                  <dateline>Given forth from the Common Goal in <hi>Shrewsbury,</hi> 
+                     <date>the 1 day of the 2 month, called <hi>Apr.</hi> 1657.</date>
+                  </dateline>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
